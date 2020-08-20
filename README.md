@@ -1,1 +1,1 @@
-# Magma-Wiki
+# 欢迎来到 Magma Wiki ！
